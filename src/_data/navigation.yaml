@@ -1,10 +1,9 @@
 ---
+
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Newsletter
+    url: "https://www.getrevue.co/profile/GRIT"
+  - text: Consults
+    url: "https://calendly.com/gritcult/twitter"
   - text: Blog
     url: "/blog"
